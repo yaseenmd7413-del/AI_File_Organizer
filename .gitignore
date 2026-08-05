@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+
+logs/
+backup/
+report/
+
+.vscode/
+
+Thumbs.db
+desktop.ini
